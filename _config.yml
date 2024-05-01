@@ -9,14 +9,14 @@
 title: CryptoClarityChat
 
 # Below the site title
-tagline: Unpacking the Promise and Pitfalls of Crypto.
+tagline: Unpacking the Promise and Pitfalls of Crypto and Web3.
 
 # Site logo
 logo:
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: |
-  BlogBox is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net.
+  CryptoClarityChat - Unpacking the Promise and Pitfalls of Crypto and Web3.
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: https://ronmath.github.io
